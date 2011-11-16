@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the infoyoga_listings feature.
+ */
+
+include_once('infoyoga_listings.features.inc');
